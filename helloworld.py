@@ -1,7 +1,9 @@
-#!/usr/bin/env python
+/usr/bin/env python
 
 """Top-level script to invoke helloworld implementation."""
 
+
+"""hi"""
 import sys
 import helloworld.main
 
